@@ -1,0 +1,6 @@
+framework module Pods_AliyunPlayerDemo {
+  umbrella header "Pods-AliyunPlayerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

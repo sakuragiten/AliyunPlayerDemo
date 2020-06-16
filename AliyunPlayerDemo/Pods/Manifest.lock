@@ -1,0 +1,41 @@
+PODS:
+  - AliPlayerPartSDK_iOS (5.1.2):
+    - AliPlayerPartSDK_iOS/AliPlayerPartSDK (= 5.1.2)
+  - AliPlayerPartSDK_iOS/AliPlayerPartSDK (5.1.2)
+  - AlivcConan (1.0.3):
+    - AlivcConan/AlivcConan (= 1.0.3)
+  - AlivcConan/AlivcConan (1.0.3)
+  - AliyunOSSiOS (2.10.8)
+  - AliyunVideoSDKBasic (3.16.0)
+  - QuCore-ThirdParty (3.15.0)
+  - VODUpload (1.6.0):
+    - AliyunOSSiOS
+
+DEPENDENCIES:
+  - AliPlayerPartSDK_iOS
+  - AlivcConan (= 1.0.3)
+  - AliyunOSSiOS
+  - AliyunVideoSDKBasic (= 3.16.0)
+  - QuCore-ThirdParty (= 3.15.0)
+  - VODUpload
+
+SPEC REPOS:
+  trunk:
+    - AliPlayerPartSDK_iOS
+    - AlivcConan
+    - AliyunOSSiOS
+    - AliyunVideoSDKBasic
+    - QuCore-ThirdParty
+    - VODUpload
+
+SPEC CHECKSUMS:
+  AliPlayerPartSDK_iOS: d398ca261100b3f6995619d321a1d2745b28eeb9
+  AlivcConan: afb3f657f23ae8476789deca6f14236f4cdd5d54
+  AliyunOSSiOS: 8db92936545593b9e5c66d680ef2ac0738946651
+  AliyunVideoSDKBasic: 714432110b425d5ffe2eea52c60cce262c3a6c7c
+  QuCore-ThirdParty: f3c49341745bd366e8557a8994407cbbda5c1c44
+  VODUpload: 187c8b305ddc21661000377989fe9b1dfbc4ac3d
+
+PODFILE CHECKSUM: ad5e411696caa46b0a9c20f886826935b73d7e2b
+
+COCOAPODS: 1.9.3

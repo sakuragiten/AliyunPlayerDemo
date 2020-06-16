@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-AliyunPlayerDemo/Pods-AliyunPlayerDemo-frameworks.sh
+${PODS_ROOT}/AliPlayerPartSDK_iOS/AliyunPlayer.framework
+${PODS_ROOT}/AliPlayerPartSDK_iOS/AliyunMediaDownloader.framework
+${PODS_ROOT}/AlivcConan/AlivcConan.framework
+${BUILT_PRODUCTS_DIR}/AliyunOSSiOS/AliyunOSSiOS.framework
+${PODS_ROOT}/AliyunVideoSDKBasic/AliyunVideoCore.framework
+${PODS_ROOT}/QuCore-ThirdParty/frameworks/alivcffmpeg.framework
